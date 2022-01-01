@@ -1,1 +1,18 @@
-eof5ymZBoX1ADbAj3Hy67pVWGhUM6p7jn/T8ChCrTmQX7bjnKQvfjYA/UFi/Ir8Y
+{
+    "CVR": {
+        "cast_branch": "CVRs/0004/36d9b3f3a1",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "description": "Should the Town of Concord start the annual Town Meeting at 6:30 PM instead of 7:00 PM?\n",
+        "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
+        "max": 1,
+        "name": "Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?",
+        "selection": [
+            "1: no"
+        ],
+        "tally": "plurality",
+        "uid": "0004"
+    }
+}
