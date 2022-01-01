@@ -1,43 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/96bc535286",
+        "cast_branch": "CVRs/0003/6c6fabb2b0",
         "choices": [
-            {
-                "name": "Anthony Alpha",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Betty Beta",
-                "party": "Dyad Party"
-            },
-            {
-                "name": "Gloria Gamma",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "David Delta",
-                "party": "Square Party"
-            },
-            {
-                "name": "Emily Echo",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Francis Foxtrot",
-                "party": "Hexagon Party"
-            }
+            "Jean-Luc Picard",
+            "Katniss Everdeen",
+            "James T. Kirk"
         ],
-        "ggo": "GGOs/states/Massachusetts",
-        "name": "U.S. Senate",
+        "ggo": "GGOs/states/Massachusetts/GGOs/counties/Middlesex",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [
-            "2: Gloria Gamma",
-            "3: David Delta",
-            "0: Anthony Alpha",
-            "4: Emily Echo",
-            "1: Betty Beta",
-            "5: Francis Foxtrot"
+            "1: Katniss Everdeen"
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
