@@ -1,1 +1,42 @@
-byU061PqvlYF10XIr1q9SF0AYnaEE5sCqw9e0IK8/XwVyWPuly5wOVSe93rscWle
+{
+    "CVR": {
+        "cast_branch": "CVRs/0000/15f52ffbb3",
+        "choices": [
+            {
+                "name": "Circle Party Ticket",
+                "ticket_names": [
+                    "Rey Skywalker",
+                    "Obi-Wan Kenobi"
+                ]
+            },
+            {
+                "name": "Square Party Ticket",
+                "ticket_names": [
+                    "Atticus Finch",
+                    "Hermione Granger"
+                ]
+            },
+            {
+                "name": "Triangle Party Ticket",
+                "ticket_names": [
+                    "Evelyn Quan Wang",
+                    "Waymond Wang"
+                ]
+            }
+        ],
+        "contest_type": "ticket",
+        "ggo": "GGOs/states/Massachusetts",
+        "name": "U.S. President",
+        "selection": [
+            "0: Circle Party Ticket",
+            "2: Triangle Party Ticket",
+            "1: Square Party Ticket"
+        ],
+        "tally": "rcv",
+        "ticket_offices": [
+            "President",
+            "Vice President"
+        ],
+        "uid": "0000"
+    }
+}
