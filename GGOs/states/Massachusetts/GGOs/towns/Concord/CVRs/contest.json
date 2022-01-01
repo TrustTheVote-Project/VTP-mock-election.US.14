@@ -1,43 +1,42 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/ee9e728d9e",
+        "cast_branch": "CVRs/0000/71634d6760",
         "choices": [
             {
-                "name": "Anthony Alpha",
-                "party": "Circle Party"
+                "name": "Circle Party Ticket",
+                "ticket_names": [
+                    "Rey Skywalker",
+                    "Obi-Wan Kenobi"
+                ]
             },
             {
-                "name": "Betty Beta",
-                "party": "Dyad Party"
+                "name": "Square Party Ticket",
+                "ticket_names": [
+                    "Atticus Finch",
+                    "Hermione Granger"
+                ]
             },
             {
-                "name": "Gloria Gamma",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "David Delta",
-                "party": "Square Party"
-            },
-            {
-                "name": "Emily Echo",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Francis Foxtrot",
-                "party": "Hexagon Party"
+                "name": "Triangle Party Ticket",
+                "ticket_names": [
+                    "Evelyn Quan Wang",
+                    "Waymond Wang"
+                ]
             }
         ],
+        "contest_type": "ticket",
         "ggo": "GGOs/states/Massachusetts",
-        "name": "U.S. Senate",
+        "name": "U.S. President",
         "selection": [
-            "5: Francis Foxtrot",
-            "3: David Delta",
-            "0: Anthony Alpha",
-            "2: Gloria Gamma",
-            "4: Emily Echo",
-            "1: Betty Beta"
+            "0: Circle Party Ticket",
+            "2: Triangle Party Ticket",
+            "1: Square Party Ticket"
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "ticket_offices": [
+            "President",
+            "Vice President"
+        ],
+        "uid": "0000"
     }
 }
