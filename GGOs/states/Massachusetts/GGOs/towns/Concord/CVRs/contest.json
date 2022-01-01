@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/dd994396c4",
+        "cast_branch": "CVRs/0000/95d508e9d1",
         "choices": [
             {
                 "name": "Circle Party Ticket",
@@ -29,8 +29,8 @@
         "name": "U.S. President",
         "selection": [
             "0: Circle Party Ticket",
-            "2: Triangle Party Ticket",
-            "1: Square Party Ticket"
+            "1: Square Party Ticket",
+            "2: Triangle Party Ticket"
         ],
         "tally": "rcv",
         "ticket_offices": [
