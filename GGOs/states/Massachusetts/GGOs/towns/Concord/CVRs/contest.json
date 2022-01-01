@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/d468f7163c",
+        "cast_branch": "CVRs/0001/299867ee65",
         "choices": [
             {
                 "name": "Anthony Alpha",
@@ -32,8 +32,8 @@
         "selection": [
             "0: Anthony Alpha",
             "1: Betty Beta",
-            "2: Gloria Gamma",
             "3: David Delta",
+            "2: Gloria Gamma",
             "4: Emily Echo",
             "5: Francis Foxtrot"
         ],
