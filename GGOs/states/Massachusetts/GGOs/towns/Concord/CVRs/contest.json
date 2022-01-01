@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/f5f4795ebf",
+        "cast_branch": "CVRs/0000/c01b8e7d1e",
         "choices": [
             {
                 "name": "Circle Party Ticket",
@@ -28,9 +28,9 @@
         "ggo": "GGOs/states/Massachusetts",
         "name": "U.S. President",
         "selection": [
-            "0: Circle Party Ticket",
             "1: Square Party Ticket",
-            "2: Triangle Party Ticket"
+            "2: Triangle Party Ticket",
+            "0: Circle Party Ticket"
         ],
         "tally": "rcv",
         "ticket_offices": [
