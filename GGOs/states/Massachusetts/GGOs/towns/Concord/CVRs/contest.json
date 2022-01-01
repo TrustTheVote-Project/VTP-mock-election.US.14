@@ -1,1 +1,18 @@
-j4YsEia3pSHW9K6NkvXWsZirhO98syA0CV02FOAymyLlCRKtG1uDwzH8TpC/1P3d
+{
+    "CVR": {
+        "cast_branch": "CVRs/0003/cf673e3ebf",
+        "choices": [
+            "Jean-Luc Picard",
+            "Katniss Everdeen",
+            "James T. Kirk"
+        ],
+        "ggo": "GGOs/states/Massachusetts/GGOs/counties/Middlesex",
+        "max": 1,
+        "name": "County Clerk",
+        "selection": [
+            "2: James T. Kirk"
+        ],
+        "tally": "plurality",
+        "uid": "0003"
+    }
+}
