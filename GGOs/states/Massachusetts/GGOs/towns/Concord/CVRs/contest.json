@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/5534ca2c09",
+        "cast_branch": "CVRs/0001/bf767ad9c0",
         "choices": [
             {
                 "name": "Anthony Alpha",
@@ -30,12 +30,12 @@
         "ggo": "GGOs/states/Massachusetts",
         "name": "U.S. Senate",
         "selection": [
-            "0: Anthony Alpha",
+            "4: Emily Echo",
             "3: David Delta",
-            "2: Gloria Gamma",
             "5: Francis Foxtrot",
             "1: Betty Beta",
-            "4: Emily Echo"
+            "0: Anthony Alpha",
+            "2: Gloria Gamma"
         ],
         "tally": "rcv",
         "uid": "0001"
