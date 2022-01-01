@@ -1,1 +1,23 @@
-2u37PIViVagymmbxhykwX8QrtgcvxmSOW7CmJPDZo5QZQbVrc/5NxcFz/Z+pDdRa
+{
+    "CVR": {
+        "cast_branch": "CVRs/0002/9b5c4998f7",
+        "choices": [
+            {
+                "name": "Spencer Cogswell",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Cosmo Spacely",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/Massachusetts",
+        "max": 1,
+        "name": "Governor",
+        "selection": [
+            "0: Spencer Cogswell"
+        ],
+        "tally": "plurality",
+        "uid": "0002"
+    }
+}
