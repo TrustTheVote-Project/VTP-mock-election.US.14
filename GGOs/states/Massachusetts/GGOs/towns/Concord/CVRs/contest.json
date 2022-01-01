@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/9176489910",
+        "cast_branch": "CVRs/0004/3ce8f89dac",
         "choices": [
             "yes",
             "no"
@@ -10,7 +10,7 @@
         "max": 1,
         "name": "Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?",
         "selection": [
-            "1: no"
+            "0: yes"
         ],
         "tally": "plurality",
         "uid": "0004"
