@@ -1,1 +1,43 @@
-xJDH2Rj2O613HUbqs8vfqSbd4dWOZ1Bgif58R4U88oQWkgL4ftVomF//Y8IlKJhw
+{
+    "CVR": {
+        "cast_branch": "CVRs/0001/035cc4781c",
+        "choices": [
+            {
+                "name": "Anthony Alpha",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Betty Beta",
+                "party": "Dyad Party"
+            },
+            {
+                "name": "Gloria Gamma",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "David Delta",
+                "party": "Square Party"
+            },
+            {
+                "name": "Emily Echo",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Francis Foxtrot",
+                "party": "Hexagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/Massachusetts",
+        "name": "U.S. Senate",
+        "selection": [
+            "0: Anthony Alpha",
+            "1: Betty Beta",
+            "2: Gloria Gamma",
+            "4: Emily Echo",
+            "5: Francis Foxtrot",
+            "3: David Delta"
+        ],
+        "tally": "rcv",
+        "uid": "0001"
+    }
+}
