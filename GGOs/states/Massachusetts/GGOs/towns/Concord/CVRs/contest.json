@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/7ad652622c",
+        "cast_branch": "CVRs/0003/4ee5f5d9d9",
         "choices": [
-            {
-                "name": "Spencer Cogswell",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Cosmo Spacely",
-                "party": "Triangle Party"
-            }
+            "Jean-Luc Picard",
+            "Katniss Everdeen",
+            "James T. Kirk"
         ],
-        "ggo": "GGOs/states/Massachusetts",
+        "ggo": "GGOs/states/Massachusetts/GGOs/counties/Middlesex",
         "max": 1,
-        "name": "Governor",
+        "name": "County Clerk",
         "selection": [
-            "1: Cosmo Spacely"
+            "2: James T. Kirk"
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0003"
     }
 }
