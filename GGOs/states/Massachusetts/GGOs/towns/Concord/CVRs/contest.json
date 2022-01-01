@@ -1,18 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/9d8523ed06",
+        "cast_branch": "CVRs/0002/0eed60ea21",
         "choices": [
-            "yes",
-            "no"
+            {
+                "name": "Spencer Cogswell",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Cosmo Spacely",
+                "party": "Triangle Party"
+            }
         ],
-        "description": "Should the Town of Concord start the annual Town Meeting at 6:30 PM instead of 7:00 PM?\n",
-        "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
+        "ggo": "GGOs/states/Massachusetts",
         "max": 1,
-        "name": "Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?",
+        "name": "Governor",
         "selection": [
-            "1: no"
+            "0: Spencer Cogswell"
         ],
         "tally": "plurality",
-        "uid": "0004"
+        "uid": "0002"
     }
 }
