@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/a45b9921b1",
+        "cast_branch": "CVRs/0003/c77e1cdb35",
         "choices": [
             "Jean-Luc Picard",
             "Katniss Everdeen",
@@ -10,7 +10,7 @@
         "max": 1,
         "name": "County Clerk",
         "selection": [
-            "1: Katniss Everdeen"
+            "0: Jean-Luc Picard"
         ],
         "tally": "plurality",
         "uid": "0003"
