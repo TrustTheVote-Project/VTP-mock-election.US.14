@@ -1,0 +1,49 @@
+---
+contests:
+- US president:
+    tally: rcv
+    contest_type: ticket
+    ticket_offices:
+      - President
+      - Vice President
+    choices:
+    - name: Circle Party Ticket
+      ticket_names:
+        - Rey Skywalker
+        - Obi-Wan Kenobi
+    - name: Square Party Ticket
+      ticket_names:
+        - Atticus Finch
+        - Hermione  Granger
+    - name: Triangle Party Ticket
+      ticket_names:
+        - Evelyn Quan Wang
+        - Waymond Wang
+- US senate:
+    tally: rcv
+    choices:
+    - name: Anthony Alpha
+      party: Circle Party
+    - name: Betty Beta
+      party: Pentagon Party
+    - name: Gloria Gamma
+      party: Square Party
+    - name: David Delta
+      party: Triangle Party
+    - name: Emily Echo
+      party: Ellipse Party
+    - name: Francis Foxtrot
+      party: Octagon Party
+- governor:
+    tally: plurality
+    choices:
+    - name: Spencer Cogswell
+      party: Circle Party
+    - name: Cosmo Spacely
+      party: Triangle Party
+GGOs:
+  counties:
+  - Middlesex
+  towns:
+  - Concord
+submodules: []
