@@ -1,6 +1,6 @@
 ---
 contests:
-- US president:
+- U.S. President:
     tally: rcv
     contest_type: ticket
     ticket_offices:
@@ -14,27 +14,27 @@ contests:
     - name: Square Party Ticket
       ticket_names:
         - Atticus Finch
-        - Hermione  Granger
+        - Hermione Granger
     - name: Triangle Party Ticket
       ticket_names:
         - Evelyn Quan Wang
         - Waymond Wang
-- US senate:
+- U.S. Senate:
     tally: rcv
     choices:
     - name: Anthony Alpha
       party: Circle Party
     - name: Betty Beta
-      party: Pentagon Party
+      party: Dyad Party
     - name: Gloria Gamma
-      party: Square Party
-    - name: David Delta
       party: Triangle Party
+    - name: David Delta
+      party: Square Party
     - name: Emily Echo
-      party: Ellipse Party
+      party: Pentagon Party
     - name: Francis Foxtrot
-      party: Octagon Party
-- governor:
+      party: Hexagon Party
+- Governor:
     tally: plurality
     choices:
     - name: Spencer Cogswell

@@ -26,7 +26,7 @@ $ cd VoteTrackerPlus
 $ make poetry-build
 
 # To setup a mock demo election using this (ElectionData) repo:
-$ cd ../VTP-mock-election.US.13
+$ cd ../VTP-mock-election.US.14
 $ setup-vtp-demo
 ```
 
