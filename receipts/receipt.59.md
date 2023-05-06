@@ -1,5 +1,4 @@
-<font size=”1”>
-| 1 | 0000 - U.S. President | 0001 - U.S. Senate | 0002 - Governor | 0003 - County Clerk | 0004 - Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM? |
+<font size=”1”>| 1 | 0000 - U.S. President | 0001 - U.S. Senate | 0002 - Governor | 0003 - County Clerk | 0004 - Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM? |
 | --- | --- | --- | --- | --- | --- |
 | 3 | [8cb334d28590cbfde0e1825897e7776b37564168](https://github.com/TrustTheVote-Project/VTP-mock-election.US.14/commit/8cb334d28590cbfde0e1825897e7776b37564168) | 2c62af95112fd3bcaef879359039d57cb5a74f63 | 511e2d6adfcf4dd96f98e5dcdd08aa67a95f66d7 | be1df024257c92686ac113b35b1e0d1ccaa33be6 | d8afc4008f7032fe44a789dd16afb5aa2ddac04c |
 | 4 | a076b1711d0daaf5f5a113db9e8916d19eb43923 | bbb105c20d87e6fc05d02d698b5a952054e7698b | 5e0608e06aa3ac109b227944f930779bcb4be486 | a95d8cf214c25d7a782b0b7d3857bf49481a899d | 71ed0892b6a18b5fd91b15c4cf2544646d627e5c |
@@ -100,5 +99,4 @@
 | 99 | 158de2c0fba6b7732b9ad7928e9676d18e73e2c4 | e775079db238623d143f553fa44392966558d1c9 | 885219213d073817491e8ff450a145fd1a67fe2b | 2b1cbb3d824959856b50ae417701fe0dc18608df | f0964e3180afe5ad6a3effa5a51e189c1a13d59d |
 | 100 | 7c64da469023db563f12f50202daf79771a4d989 | 4c79ca2735372e1e43067e57413e3cac6415011c | dee41c44adab8388c457c2b4f8406aa58b5e2bd3 | 967d69738f83133db36e4f18f8917df66fb4d53f | dc86a715bba33b11fb02d45c93eba9e8741c3d40 |
 | 101 | 1eb2205b958baa25f0f831b86a3cdccff90ff44a | 5e3add5aa97d5f77f4e895e465dc4219af36ace1 | 32c9c46c70e06d1133ab976184b1f6380e9fb991 | 7030086b98d0946dd3376711e830384c2e421e54 | 6a123bac4bd37b940df9bff1cacd0584bb161789 |
-| 102 | 937b5db89bbe2d04a781585b66b93d82e31a70bf | 31dcdafea322a0e291970a6f4dd7d9300fbcc52d | 1a3b48bdbec4f1d1eab4412c96da29d0a78413b6 | fc5f245dcd5986eedcf55ac4a85b6f08adf4a3d6 | 8880ab4fe6a222a50f78349727b5e2bb1acb1427 | 
-</font>
+| 102 | 937b5db89bbe2d04a781585b66b93d82e31a70bf | 31dcdafea322a0e291970a6f4dd7d9300fbcc52d | 1a3b48bdbec4f1d1eab4412c96da29d0a78413b6 | fc5f245dcd5986eedcf55ac4a85b6f08adf4a3d6 | 8880ab4fe6a222a50f78349727b5e2bb1acb1427 |</font>
