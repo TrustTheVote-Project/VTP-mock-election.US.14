@@ -18,3 +18,4 @@ __pycache__
 # when running an election
 **/CVRs/ballot.json
 **/CVRs/cast-ballot.json
+**/CVRs/receipt.csv
